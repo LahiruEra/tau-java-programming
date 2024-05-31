@@ -26,7 +26,7 @@ public class SalaryCalculator {
 		int sales = scanner.nextInt();
 		scanner.close();
 		
-		//Quick detour for the bonus earners
+		//Quick detour for the bonus earners- using if statement
 		if(sales > 10) {
 			salary = salary+bonus;
 		}
