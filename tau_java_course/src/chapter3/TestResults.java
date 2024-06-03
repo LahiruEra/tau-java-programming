@@ -3,7 +3,7 @@ package chapter3;
 import java.util.Scanner;
 
 /*
- * IF-ELSE-IF
+ * IF-ELSE-IF statement
  * Display the letter grade for a student based on their test score.
  */
 
