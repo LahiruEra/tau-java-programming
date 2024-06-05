@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  * LOOP BREAK
- * Search a String to determine if it contains the letter 'A'.
+ * Search a String to determine if it contains the letter 'A'
  */
 public class LetterSearch {
 
