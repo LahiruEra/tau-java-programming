@@ -10,7 +10,8 @@ public class inheritanceTester {
 		Employee employee = new Employee();
 		
 		//employee.getName();
-		//employee. will load all the methods including which defined under Parent cl
+		//employee. will load all the methods including which defined under Parent class
+		//nothing to run here
 		
 		
 
