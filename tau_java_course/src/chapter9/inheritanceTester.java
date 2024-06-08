@@ -11,7 +11,7 @@ public class inheritanceTester {
 		
 		//employee.getName();
 		//employee. will load all the methods including which defined under Parent class
-		//nothing to run here
+		//nothing to run here..
 		
 		
 
