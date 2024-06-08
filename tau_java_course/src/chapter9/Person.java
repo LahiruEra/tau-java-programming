@@ -1,6 +1,7 @@
 package chapter9;
 
 //this is the superclass(Base/Parent)
+
 public class Person {
 		
 		private String name;
