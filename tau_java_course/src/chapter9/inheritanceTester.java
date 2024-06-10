@@ -1,6 +1,6 @@
 package chapter9;
 
-//this is the class to test how the inheritance works
+//this is the class to test how the inheritance works..
 
 public class inheritanceTester {
 
