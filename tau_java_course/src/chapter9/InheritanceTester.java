@@ -1,20 +1,41 @@
 package chapter9;
 
-//this is the class to test how the inheritance works..
+public class InheritanceTester {
 
-public class inheritanceTester {
+    public static void main(String[] args){
 
-	public static void main(String[] args) {
-		
-		Person person = new Person();
-		Employee employee = new Employee();
-		
-		//employee.getName();
-		//employee. will load all the methods including which defined under Parent class
-		//nothing to run here.
-		
-		
+    	
+        Mother mom = new Mother();
+        mom.setName("Kodikara");
 
-	}
+        System.out.println(mom.getName() + " is a " + mom.getGender());
+        
+    }
 
+    // below details will not execute at this stage
+    
+    public static void testSquareOverride(){
+        Rectangle rectangle = new Rectangle();
+        rectangle.setLength(4);
+        rectangle.setWidth(8);
+        System.out.println(rectangle.calculatePerimeter());
+
+        Square square = new Square();
+        square.setLength(4);
+        square.setWidth(8);
+        System.out.println(square.calculatePerimeter());
+    }
+
+    public static void testInheritance(){
+        Employee employee = new Employee();
+        employee.setName("Lahiru");
+    }
+
+    public static void testOverload(){
+        Rectangle rectangle = new Rectangle();
+        rectangle.print();
+
+        Square square = new Square();
+        square.print("square");
+    }
 }
