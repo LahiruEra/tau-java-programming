@@ -22,11 +22,11 @@ public class Zoo {
     public static void feed(Animal animal){
 
         if(animal instanceof Dog){
-            System.out.println("here's your dog food");
+            System.out.println("Here's your dog food");
         }
 
         else if(animal instanceof Cat){
-            System.out.println("here's your cat food");
+            System.out.println("Here's your cat food");
         }
     }
 }
