@@ -9,6 +9,7 @@ public class Book implements Product {
     private int pages;
     private String isbn;
 
+    
     @Override
     public double getPrice() {
         return price;
