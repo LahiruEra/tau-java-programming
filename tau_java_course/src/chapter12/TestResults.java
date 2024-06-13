@@ -22,6 +22,7 @@ public class TestResults {
         return grades;
     }
 
+    
     public static Map getMakeUpGrades(){
         Map grades = new HashMap();
         grades.put("Lahiru", 97);
