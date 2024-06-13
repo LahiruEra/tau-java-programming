@@ -33,7 +33,7 @@ public class CollectionsDemo {
 
         System.out.println(fruit.get(2)); //banana
         System.out.println(fruit.size()); //5
-        System.out.println(fruit); //[apple, lemon, banana, orange, lemon]
+        System.out.println(fruit); // [apple, lemon, banana, orange, lemon]
     }
 
     public static void queueDemo(){
