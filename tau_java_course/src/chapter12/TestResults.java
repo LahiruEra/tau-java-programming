@@ -6,6 +6,7 @@ import java.util.Map;
 public class TestResults {
 
     public static Map getOriginalGrades(){
+        
         Map grades = new HashMap();
         grades.put("Lahiru", 24);
         grades.put("Isuru", 32);
