@@ -10,7 +10,6 @@ public class CollectionsDemo {
         queueDemo();
         mapDemo();
     }
-
     public static void setDemo(){
         Set fruit = new HashSet();
         fruit.add("apple");
