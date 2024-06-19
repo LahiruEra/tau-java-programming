@@ -25,7 +25,7 @@ public class OptionalExercise {
 		
 		
 		
-		//Print 'On a <adjective><season> day, I drink a minimum of <number> cups of tea..'
+		//Print 'On a <adjective><season> day, I drink a minimum of <number> cups of tea.'
 		System.out.println("On a " + adj +" "+ season + " day, I drink a minimum of " +num+ " cups of tea..");
 		
 	}
