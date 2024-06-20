@@ -12,7 +12,7 @@ public class GrossPayCalculator {
 		Scanner scanner = new Scanner(System.in);
 		int hours = scanner.nextInt();
 		
-		//2. Get the hourly pay rate
+		//2.Get the hourly pay rate
 		
 		System.out.println("Enter the Employee's pay rate.");
 		double rate = scanner.nextDouble();
