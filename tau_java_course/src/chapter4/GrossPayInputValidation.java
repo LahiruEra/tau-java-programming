@@ -8,7 +8,7 @@ public class GrossPayInputValidation {
 	 * WHILE LOOP:
 	 * Each store employee makes $15 an hour. Write a program that allows the employee
 	 * to enter the number of hours worked for the week. Do not allow overtime.
-	 * TAU chapter 4a
+	 * TAU chapter 4a.
 	 */
 
 	public static void main(String[] args) {
