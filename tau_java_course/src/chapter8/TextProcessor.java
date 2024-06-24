@@ -7,7 +7,7 @@ public class TextProcessor {
     }
 
     /**
-     * Splits a String into an array by tokenizing it.
+     * Splits a String into an array by tokenizing it
      * Counts words and prints them
      * @param text Full string to be split
      */
