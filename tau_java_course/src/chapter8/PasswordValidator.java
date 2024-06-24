@@ -83,7 +83,7 @@ public class PasswordValidator {
             errorMessage += "\n Your password must be at least 8 characters.";
         }
 
-        //Alternatively, can loop through string and use Character.isUpperCase on each char
+        //Alternatively, can loop through string and use Character.isUpperCase on each char.
         if(newPassword.equals(newPassword.toLowerCase())){
             valid = false;
             errorMessage += "\n Your password must include an uppercase letter.";
