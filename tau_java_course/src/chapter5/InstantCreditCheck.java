@@ -10,6 +10,7 @@ import java.util.Scanner;
  * of 700 or better. Reject all others.
  */
 
+
 public class InstantCreditCheck {
 
     static int requiredSalary = 25000;
