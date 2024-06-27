@@ -11,6 +11,7 @@ public class GrossPayInputValidation {
 	 * TAU chapter 4a.
 	 */
 
+	
 	public static void main(String[] args) {
 		// Initialize know variables
 		int rate = 15;
