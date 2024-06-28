@@ -5,7 +5,6 @@ package chapter7;
  * a lottery ticket with 6 random numbers, between 1 and 69
  */
 
-
 import java.util.Random;
 
 public class LotteryTicket {
