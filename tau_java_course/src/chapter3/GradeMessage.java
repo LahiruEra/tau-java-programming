@@ -8,6 +8,7 @@ import java.util.Scanner;
  * print out a message letting them know how they did
  */
 
+
 public class GradeMessage {
 
 	public static void main(String[] args) {
