@@ -8,6 +8,7 @@ import java.util.Scanner;
  * average score, as well as the highest and lowest scores
  */
 
+
 public class Grades {
 
     private static int grades[];
