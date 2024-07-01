@@ -7,6 +7,7 @@ public class Dog extends Animal {
         System.out.println("Woof");
     }
 
+    
     public void fetch(){
         System.out.println("fetch is fun!");
     }
