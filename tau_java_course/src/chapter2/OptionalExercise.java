@@ -17,7 +17,7 @@ public class OptionalExercise {
 		System.out.println("Enter a whole number");
 		int num = scanner.nextInt();
 		
-		//Ask for an adjective
+		//Ask for an adjective.
 		System.out.println("Enter an adjective");
 		String adj = scanner.next();
 		
