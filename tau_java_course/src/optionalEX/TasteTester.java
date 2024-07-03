@@ -5,6 +5,7 @@ package optionalEX;
 public class TasteTester {
 
     public static void main(String[] args){
+        
         Cake cake = new Cake("chocolate");
         cake.setPrice(29.99);
         System.out.println("Cake flavor: " + cake.getFlavor());
