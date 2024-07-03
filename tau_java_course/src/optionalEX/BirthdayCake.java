@@ -12,6 +12,7 @@ public class BirthdayCake extends Cake{
         return candles;
     }
 
+    
     public void setCandles(int candles) {
         this.candles = candles;
     }
