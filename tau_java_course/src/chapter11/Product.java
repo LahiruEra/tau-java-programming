@@ -11,4 +11,5 @@ public interface Product {
 	String getColor();
 	void setColor(String color);
 
+	
 }
