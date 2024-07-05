@@ -91,5 +91,6 @@ public class CollectionsDemo {
 
         map.forEach(
                 (k,v)->System.out.println("Fruit: " + k + ", Calories: " + v));
+        
     }
 }
