@@ -23,7 +23,6 @@ public class GradeBook {
             the loop above so that the program does not have to loop over this map
             for a second time. This would be a more efficient approach:
             System.out.println("Student: " + student.getKey() + ", Grade:" + gradeBook.get(student.getKey()));
-            
         */
         
         System.out.println("Final Grades:");
