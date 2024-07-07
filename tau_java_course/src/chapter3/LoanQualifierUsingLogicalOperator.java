@@ -8,7 +8,6 @@ import java.util.Scanner;
  * and have been working at their current job for at least 2 years.
  */
 
-
 public class LoanQualifierUsingLogicalOperator {
 
 	public static void main(String[] args) {
