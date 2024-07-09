@@ -18,7 +18,7 @@ public class HomeAreaCalculatorRedo {
 
         calculator.scanner.close();
     }
-
+    
     public Rectangle getRoom(){
 
         System.out.println("Enter the length of your room:");
