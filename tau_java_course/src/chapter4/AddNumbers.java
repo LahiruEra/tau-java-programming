@@ -9,7 +9,6 @@ import java.util.Scanner;
  * repeat this action until they indicate they are done
  */
 
-
 public class AddNumbers {
 
 	public static void main(String[] args) {
