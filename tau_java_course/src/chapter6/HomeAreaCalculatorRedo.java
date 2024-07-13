@@ -28,6 +28,7 @@ public class HomeAreaCalculatorRedo {
         double width = scanner.nextDouble();
 
         return new Rectangle(length, width);
+        
     }
 
     public double calculateTotalArea(Rectangle rectangle1, Rectangle rectangle2){
