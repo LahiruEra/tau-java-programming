@@ -9,7 +9,7 @@ public class InheritanceTester {
         mom.setName("Kodikara");
 
         System.out.println(mom.getName() + " is a " + mom.getGender());
-        
+
     }
 
     // below details will not execute at this stage
