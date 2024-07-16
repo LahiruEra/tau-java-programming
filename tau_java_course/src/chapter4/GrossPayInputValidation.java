@@ -10,7 +10,6 @@ public class GrossPayInputValidation {
 	 * to enter the number of hours worked for the week. Do not allow overtime.
 	 * TAU chapter 4a.
 	 */
-
 	
 	public static void main(String[] args) {
 		// Initialize know variables
