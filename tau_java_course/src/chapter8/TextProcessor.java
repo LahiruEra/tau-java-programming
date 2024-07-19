@@ -10,7 +10,7 @@ public class TextProcessor {
      * Splits a String into an array by tokenizing it
      * Counts words and prints them
      * @param text Full string to be split
-     */
+     */ 
     public static void countWords(String text){
         var words = text.split(" ");
         int numberOfWords = words.length;
