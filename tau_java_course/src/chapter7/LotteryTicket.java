@@ -4,7 +4,7 @@ package chapter7;
  * create a Lottery Quick Pick application that will generate 
  * a lottery ticket with 6 random numbers, between 1 and 69
  */ 
-
+ 
 import java.util.Random;
 
 public class LotteryTicket {
