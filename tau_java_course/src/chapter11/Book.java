@@ -1,5 +1,5 @@
 package chapter11;
-
+ 
 public class Book implements Product {
 
     private double price;
