@@ -3,7 +3,7 @@ package chapter6;
 
 public class Month {
 
-    public static String getMonth(int month){
+    public static String getMonth(int month){ 
         switch(month){
             case 1: return "January";
             case 2: return "February";
