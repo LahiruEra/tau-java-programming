@@ -11,7 +11,7 @@ public class Rectangle {
     }
 
     public Rectangle(double length, double width){
-        this.length = length; //can be set this way
+        this.length = length; //can be set this way 
         setWidth(width); //or can be set this way. these are only different here to demo alternative options
     }
 
