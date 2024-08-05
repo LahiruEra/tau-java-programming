@@ -1,7 +1,7 @@
 package chapter7;
 
 import java.util.Scanner;
-
+ 
 /* Chapter 7c
  * Create a program that allows a user to enter any
  * number of grades and provides them with their
