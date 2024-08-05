@@ -5,7 +5,7 @@ package chapter7;
  * And right now, our program doesn't handle this case. So, let's update our class to ensure that 
  * there are no duplicates, and we'll do that by searching the array
  */   
-
+ 
 import java.util.Arrays;
 import java.util.Random;
 
