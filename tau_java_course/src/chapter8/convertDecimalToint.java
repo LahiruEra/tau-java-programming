@@ -1,6 +1,6 @@
 package chapter8;
 
-//convert the decimal numbers into a whole numbers.
+//convert the decimal numbers into a whole numbers. 
 
 public class convertDecimalToint {
     public static void main(String[] args) {
