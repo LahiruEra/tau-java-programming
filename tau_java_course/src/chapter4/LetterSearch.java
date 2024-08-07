@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
  * LOOP BREAK
  * Search a String to determine if it contains the letter 'A'
- */
+ */ 
 public class LetterSearch {
 
     public static void main(String args[]){
