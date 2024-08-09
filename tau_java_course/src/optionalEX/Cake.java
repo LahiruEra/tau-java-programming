@@ -8,7 +8,7 @@ public class Cake {
     public Cake(String flavor){
         setFlavor(flavor);
         setPrice(9.99);
-    }
+    } 
 
     public String getFlavor() {
         return flavor;
