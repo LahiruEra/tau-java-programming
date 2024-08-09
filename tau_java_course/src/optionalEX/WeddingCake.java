@@ -2,7 +2,7 @@ package optionalEX;
 
 public class WeddingCake extends Cake{
 
-    private int tiers;
+    private int tiers; 
 
     public WeddingCake(){
         super("almond");
