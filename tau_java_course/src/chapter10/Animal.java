@@ -2,7 +2,7 @@ package chapter10;
 
 public class Animal {
 
-    public void makeSound(){
+    public void makeSound(){ 
         System.out.println("unknown animal sound"); 
         
     }
