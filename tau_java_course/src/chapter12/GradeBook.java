@@ -2,7 +2,7 @@ package chapter12;
 
 import java.util.Map; 
 
-public class GradeBook {
+public class GradeBook { 
 
     public static void main(String[] args){
         Map<String, Integer> gradeBook = TestResults.getOriginalGrades();
