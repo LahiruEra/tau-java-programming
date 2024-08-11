@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Create a program that allows a user to enter any
  * number of grades and provides them with their
  * average score, as well as the highest and lowest scores
- */ 
+ */  
  
 public class Grades {
 
