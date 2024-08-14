@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Write an 'instant credit check' program that approves
  * anyone who makes more than $25,000 and has a credit score
  * of 700 or better. Reject all others.
- */
+ */ 
   
 public class InstantCreditCheck {
 
