@@ -6,7 +6,7 @@ public class OptionalExercise {
 	
 	public static void main(String arg[]) {
 		
-		//Ask user for a season of the year 
+		//Ask user for a season of the year  
 		
 		System.out.println("Enter a season of the year");
 		Scanner scanner = new Scanner(System.in);
