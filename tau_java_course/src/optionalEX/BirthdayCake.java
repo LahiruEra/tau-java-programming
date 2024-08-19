@@ -8,7 +8,7 @@ public class BirthdayCake extends Cake{
     public BirthdayCake(){
         super("vanilla");
     }
-
+ 
     public int getCandles() {
         return candles;
     }
