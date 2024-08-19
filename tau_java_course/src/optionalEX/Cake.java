@@ -1,6 +1,6 @@
 package optionalEX; 
 
-public class Cake {
+public class Cake { 
 
     private String flavor;
     private double price;
