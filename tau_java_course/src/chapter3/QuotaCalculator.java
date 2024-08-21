@@ -9,6 +9,7 @@ import java.util.Scanner;
  * For those who don't, they are informed of how many sales they were short.
  */
 
+
 public class QuotaCalculator {
 
 	public static void main(String[] args) {
