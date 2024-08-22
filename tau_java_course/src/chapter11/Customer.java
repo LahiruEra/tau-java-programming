@@ -7,6 +7,6 @@ public class Customer {
         Product book = new Book();
         book.setPrice(9.98);
     }
-
+ 
 
 }
