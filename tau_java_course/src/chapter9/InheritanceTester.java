@@ -12,7 +12,7 @@ public class InheritanceTester {
 
     }
 
-    // below details will not execute at this stage
+    // below details will not execute at this stage 
     
     public static void testSquareOverride(){
         Rectangle rectangle = new Rectangle();
