@@ -1,6 +1,6 @@
 package chapter9;
 
-//this is the child class(subclass) 
+//this is the child class(subclass)
 
 public class Employee extends Person {
 	private String employeeId;
