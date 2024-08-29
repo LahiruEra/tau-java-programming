@@ -1,6 +1,6 @@
 package chapter11;
 
-//understand Abstract   
+//understand Abstract
 
 public abstract class Shape {
 	
