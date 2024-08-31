@@ -2,7 +2,7 @@ package chapter2;
 
 import java.util.Scanner;
 
-public class OptionalExercise {
+public class OptionalExercise { 
 	
 	public static void main(String arg[]) {
 		
