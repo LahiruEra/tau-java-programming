@@ -17,7 +17,7 @@ public class GradeBook {
             }
           }
  
-        /* 
+        /*  
             The forEach is used here to demonstrate another approach to looping.
             However, in reality, I would have added a print statement inside of
             the loop above so that the program does not have to loop over this map
