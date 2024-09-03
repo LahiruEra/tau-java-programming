@@ -2,7 +2,7 @@ package chapter7;
 
 /* chapter7a
  * create a Lottery Quick Pick application that will generate 
- * a lottery ticket with 6 random numbers, between 1 and 69
+ * a lettery ticket with 6 random numbers, between 1 and 69
  */    
  
 import java.util.Random;
