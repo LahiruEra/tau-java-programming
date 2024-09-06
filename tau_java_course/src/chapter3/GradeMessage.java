@@ -6,7 +6,7 @@ import java.util.Scanner;
  * SWITCH
  * Have a user enter their letter grade, and using a switch statement,
  * print out a message letting them know how they did
- */  
+ */   
 
 public class GradeMessage {
 
