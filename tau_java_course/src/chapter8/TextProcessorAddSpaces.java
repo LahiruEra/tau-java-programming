@@ -6,7 +6,7 @@ public class TextProcessorAddSpaces {
         addSpaces("HeyWorld!It'sMeLahiru");
     }
 
-    /**
+    /*
      * Adds spaces before each uppercase letter
      * @param text jumbled text
      */
