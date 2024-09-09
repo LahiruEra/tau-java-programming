@@ -1,6 +1,6 @@
 package optionalEX;
 
-//optional exercise on chapter 9   
+//optional exercise on chapter 9    
 
 public class TasteTester {
 
