@@ -1,6 +1,6 @@
 package optionalEX;
 
-public class WeddingCake extends Cake{
+public class WeddingCake extends Cake{ 
 
     private int tiers; 
 
