@@ -1,6 +1,6 @@
 package chapter12;
 
-import java.util.*; 
+import java.util.*;  
  
 public class CollectionsDemo {  
  
