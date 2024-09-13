@@ -7,7 +7,7 @@ public class TextProcessorReverse {
     }
 
     /** 
-     * Prints a String in reverse order
+     * Prints a String in reverse order 
      * @param text String to reverse
      */
     public static void reverseString(String text){
