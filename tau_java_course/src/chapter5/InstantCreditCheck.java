@@ -3,7 +3,7 @@ package chapter5;
 
 import java.util.Scanner;
 
-/*
+/* 
  * VARIABLE SCOPE
  * Write an 'instant credit check' program that approves
  * anyone who makes more than $25,000 and has a credit score
