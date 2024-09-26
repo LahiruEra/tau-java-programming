@@ -1,5 +1,5 @@
 package chapter7;
-
+ 
 /*
  * If you purchased a lottery ticket that had duplicate numbers, you'd be pretty upset. 
  * And right now, our program doesn't handle this case. So, let's update our class to ensure that 
