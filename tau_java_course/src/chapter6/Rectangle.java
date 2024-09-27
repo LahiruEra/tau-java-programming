@@ -1,6 +1,6 @@
 package chapter6;
 
-public class Rectangle {
+public class Rectangle { 
 
     private double length;
     private double width;
