@@ -1,6 +1,6 @@
 package chapter12;
 
-import java.util.Map;  
+import java.util.Map;   
 
 public class GradeBook { 
 
