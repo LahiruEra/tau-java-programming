@@ -2,7 +2,7 @@ package chapter4;
 
 import java.util.Scanner;
 /*
- * NESTED LOOPS:
+ * NESTED LOOPS: 
  * Find the average of each student's test scores.
  */ 
    
