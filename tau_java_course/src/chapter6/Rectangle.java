@@ -1,5 +1,5 @@
 package chapter6; 
-
+ 
 public class Rectangle { 
 
     private double length;
