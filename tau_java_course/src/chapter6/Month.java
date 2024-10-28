@@ -1,6 +1,6 @@
 package chapter6; 
 
-public class Month { 
+public class Month {  
 
     public static String getMonth(int month){ 
         switch(month){
