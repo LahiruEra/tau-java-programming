@@ -1,6 +1,6 @@
 package chapter10; 
 
-public class Cat extends Animal {  
+public class Cat extends Animal { 
   
     @Override
     public void makeSound(){
