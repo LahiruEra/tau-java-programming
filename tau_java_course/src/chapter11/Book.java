@@ -1,6 +1,6 @@
 package chapter11;
  
-public class Book implements Product { 
+public class Book implements Product {
 
     private double price; 
     private String name;
