@@ -2,7 +2,7 @@ package chapter2;
 
 import java.util.Scanner;
 
-public class GrossPayCalculator { 
+public class GrossPayCalculator {  
 	
 	public static void main(String arg[]) {
 		
