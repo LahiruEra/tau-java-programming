@@ -1,7 +1,6 @@
 package chapter4;
 
 import java.util.Scanner; 
-
 /*
  * DO WHILE LOOP
  * Write a program that allows a user to enter two numbers,
