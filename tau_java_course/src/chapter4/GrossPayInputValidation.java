@@ -2,7 +2,7 @@ package chapter4;
 
 import java.util.Scanner;  
 
-public class GrossPayInputValidation {
+public class GrossPayInputValidation { 
 	 
 	/*
 	 * WHILE LOOP:
