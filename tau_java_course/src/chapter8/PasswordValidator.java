@@ -2,7 +2,7 @@ package chapter8;
 
 import java.util.Scanner; 
 
-public class PasswordValidator {
+public class PasswordValidator { 
 
     private String username;
     private String currentPassword;
