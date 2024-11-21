@@ -1,6 +1,6 @@
 package chapter8;
 
-public class TextProcessor { 
+public class TextProcessor {  
 
     public static void main(String[] args){
         countWords("I love My Integritas Company");
