@@ -1,6 +1,6 @@
 package chapter2;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class OptionalExercise {  
 	
