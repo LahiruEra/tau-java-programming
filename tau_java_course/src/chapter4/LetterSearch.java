@@ -1,6 +1,6 @@
 package chapter4;
 
-import java.util.Scanner;
+import java.util.Scanner; 
 /* 
  * LOOP BREAK 
  * Search a String to determine if it contains the letter 'A'
