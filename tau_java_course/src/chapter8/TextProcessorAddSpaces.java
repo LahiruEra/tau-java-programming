@@ -1,4 +1,4 @@
-package chapter8;
+package chapter8; 
 
 public class TextProcessorAddSpaces {  
 
