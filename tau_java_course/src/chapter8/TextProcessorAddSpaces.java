@@ -1,6 +1,6 @@
 package chapter8;  
 
-public class TextProcessorAddSpaces {  
+public class TextProcessorAddSpaces { 
 
     public static void main(String[] args){
         addSpaces("HeyWorld!It'sMeLahiru");
