@@ -1,6 +1,6 @@
 package chapter8;
 
-public class TextProcessorReverse { 
+public class TextProcessorReverse {  
 
 	public static void main(String[] args){
         reverseString("Hello Integritas!");
