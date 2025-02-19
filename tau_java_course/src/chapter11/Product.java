@@ -1,4 +1,4 @@
-package chapter11;  
+package chapter11; 
  
 public interface Product {
 
