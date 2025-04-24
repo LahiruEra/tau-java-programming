@@ -1,6 +1,6 @@
 package chapter3; 
 
-import java.util.Scanner;  
+import java.util.Scanner;   
 
 /* IF statement 
 Ex1: Let's say we have a team of salespeople, all of whom make a standard rate of $1,000 a week. 
