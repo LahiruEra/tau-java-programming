@@ -1,4 +1,4 @@
-package chapter7;  
+package chapter7;   
  
 /* chapter7a
  * create a Lottery Quick Pick application that will generate 
