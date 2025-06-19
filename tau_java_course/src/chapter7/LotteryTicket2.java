@@ -1,4 +1,4 @@
-package chapter7;   
+package chapter7;    
  
 /* 
  * If you purchased a lottery ticket that had duplicate numbers, you'd be pretty upset. 
