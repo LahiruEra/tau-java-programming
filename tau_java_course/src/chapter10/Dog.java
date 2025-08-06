@@ -1,4 +1,4 @@
-package chapter10;   
+package chapter10;    
   
 public class Dog extends Animal {
  
